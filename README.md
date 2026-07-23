@@ -1,0 +1,3 @@
+AI Prompt WorldAI Prompt World is a production-ready, lightning-fast Next.js 15 application featuring a public AI prompt directory, user authentication (Email & Google), role-based admin moderation, Firestore CRUD operations, Firebase Storage asset uploads, and SEO optimizations.Tech StackFramework: Next.js 15 (App Router)Language: TypeScriptStyling: Tailwind CSSBackend & DB: Firebase Firestore, Authentication, and StorageValidation: Zod & React Hook FormNotifications: Sonner ToastAnalytics & Ads: Google Analytics & Google AdSenseGetting StartedClone the repository and install dependencies:npm install
+Configure your environment variables in .env (using .env.example as a template).Run the development server:npm run dev
+Build for production:npm run build
